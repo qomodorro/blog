@@ -10,9 +10,14 @@
 
   <link rel="stylesheet" href="css/styles.css?v=1.0">
 
-  <!--[if lt IE 9]>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script>
-  <![endif]-->
+  <h1>Blog Leosia, Miau Miau, Montany i Toresa</h1>
+  <ul>
+      <li><a href="https://www.github.com/ElQomodorro">GitHub</a></li>
+      <li><a href="https://www.github.com/qomodorro">GitBobas</a></li>
+      <li><a href="https://www.github.com/elqastel">GitKarolina</a></li>
+  </ul>
+  <img src="images/tores.jpg" alt="toresik">
+
 </head>
 
 <body>
